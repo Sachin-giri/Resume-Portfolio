@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sachin Girepanoor — Portfolio
 
 A starter portfolio built with React, Vite, and Tailwind CSS. Sections:
@@ -50,3 +51,7 @@ Both offer free custom domains or you can point your own domain
   `src/components/Hero.jsx` and `src/components/Starfield.jsx` — pure
   canvas/React, no extra libraries.
 - Respects `prefers-reduced-motion` throughout.
+=======
+# Resume-Portfolio
+This is my resume portfolio where i have my all skills and achievements in my professional career  
+>>>>>>> c3f25062449eb085114a8c2ad308a83f32b09746
